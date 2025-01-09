@@ -31,6 +31,7 @@ public class Calculadora {
 	}
 	
 	public int nuevo() {
+		int aa = 1;
 		return 0;
 	}
 }
