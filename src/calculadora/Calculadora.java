@@ -29,4 +29,8 @@ public class Calculadora {
 		int result = num1 / num2;
 		return result;
 	}
+	
+	public int nuevo() {
+		return 0;
+	}
 }
