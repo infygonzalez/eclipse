@@ -32,6 +32,6 @@ public class Calculadora {
 	
 	public int nuevo() {
 			
-		return 0;
+		return 1;
 	}
 }
